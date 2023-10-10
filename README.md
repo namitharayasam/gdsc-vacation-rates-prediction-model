@@ -20,7 +20,7 @@ The dataset contains features like temperature, humidity, surface pressure, and 
 Feature engineering enhances model performance. Key features include temperature range squared, humidity-temperature interaction, and pressure differences.
 
 ## Models
-Multiple models have been explored like Random Forest, MultiOutput Regressor, Decision Trees, xgboost, etc.
+Multiple models have been explored like Random Forest, MultiOutput Regressor, Decision Trees, GradientBoostingRegressor, GridSearchCV, etc.
 
 ## Evaluation
 Models are evaluated using Root Mean Squared Error (RMSE) on a holdout test dataset. Lower RMSE values indicate better predictions.
