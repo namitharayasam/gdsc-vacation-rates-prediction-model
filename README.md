@@ -1,6 +1,6 @@
 # vacation-rates-prediction-model
 
-A simple ML model that predicts vacation rates for tourist destinations based on environmental factors like temperature, humidity, and surface pressure using machine learning.
+A simple ML model that predicts vacation rates for tourist destinations based on environmental factors like temperature, humidity, and surface pressure.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ A simple ML model that predicts vacation rates for tourist destinations based on
 This project predicts vacation rates to assist travel booking companies in recommending destinations. It utilizes historical data and machine learning with environmental variables.
 
 ## Dataset
-The dataset contains features like temperature, humidity, surface pressure, and vacation rates. It's split into a training set for model development and a test set for evaluation.
+The dataset contains features like temperature, humidity, surface pressure, and vacation rates.
 
 ## Features
 Feature engineering enhances model performance. Key features include temperature range squared, humidity-temperature interaction, and pressure differences.
