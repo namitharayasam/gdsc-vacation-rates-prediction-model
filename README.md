@@ -1,5 +1,5 @@
 # vacation-rates-prediction-model
-# Google Develepor Student Club
+# Google Developer Student Club
 
 A simple ML model that predicts vacation rates for tourist destinations based on environmental factors like temperature, humidity, and surface pressure.
 
